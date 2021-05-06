@@ -1,0 +1,5 @@
+
+*.zip
+hw/kicad/fp-info-cache
+hw/kicad/fp-lib-table
+*.kicad_prl
