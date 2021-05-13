@@ -420,6 +420,10 @@
     [
       "31bc4144-b87b-4457-bc80-7b34d797cc1a",
       "connect"
+    ],
+    [
+      "8751cf15-9596-4ff4-9ce7-c93ec6f70cb7",
+      "mcu"
     ]
   ],
   "text_variables": {}
